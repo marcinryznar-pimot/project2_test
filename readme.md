@@ -1,7 +1,7 @@
-#Projekt 2
+# Projekt 2
 
 --------------
-##opis
+## opis
 
-###licencja
+### licencja
 opis
